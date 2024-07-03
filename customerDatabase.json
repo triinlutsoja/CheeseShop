@@ -1,0 +1,42 @@
+{"customers": [
+    {
+        "balance": 1500.5,
+        "customerId": 1,
+        "customerName": "John Doe"
+    },
+    {
+        "balance": 2500,
+        "customerId": 2,
+        "customerName": "Jane Smith"
+    },
+    {
+        "balance": 325.75,
+        "customerId": 3,
+        "customerName": "Alex Johnson"
+    },
+    {
+        "balance": 4820.1,
+        "customerId": 4,
+        "customerName": "Emily Davis"
+    },
+    {
+        "balance": 105.35,
+        "customerId": 5,
+        "customerName": "Michael Brown"
+    },
+    {
+        "balance": 1500,
+        "customerId": 6,
+        "customerName": "Triin Lutsoja"
+    },
+    {
+        "balance": 1200,
+        "customerId": 7,
+        "customerName": "Mart Kaasiku"
+    },
+    {
+        "balance": 900,
+        "customerId": 8,
+        "customerName": "Reelika"
+    }
+]}

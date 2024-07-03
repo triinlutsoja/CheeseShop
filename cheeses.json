@@ -1,0 +1,119 @@
+{"cheeses": [
+    {
+        "expiryDate": "2024-12-31",
+        "originCountry": "England",
+        "producer": "Cathedral City",
+        "ageInMonths": 12,
+        "type": "Cheddar",
+        "isVegan": false,
+        "pricePerKg": 20
+    },
+    {
+        "expiryDate": "2024-10-15",
+        "originCountry": "Netherlands",
+        "producer": "Beemster",
+        "ageInMonths": 8,
+        "type": "Gouda",
+        "isVegan": false,
+        "pricePerKg": 18
+    },
+    {
+        "expiryDate": "2024-07-10",
+        "originCountry": "France",
+        "producer": "President",
+        "ageInMonths": 1,
+        "type": "Brie",
+        "isVegan": false,
+        "pricePerKg": 25
+    },
+    {
+        "expiryDate": "2025-05-05",
+        "originCountry": "Italy",
+        "producer": "Parmigiano Reggiano",
+        "ageInMonths": 24,
+        "type": "Parmesan",
+        "isVegan": false,
+        "pricePerKg": 30
+    },
+    {
+        "expiryDate": "2024-11-20",
+        "originCountry": "Switzerland",
+        "producer": "Emmi",
+        "ageInMonths": 6,
+        "type": "Swiss",
+        "isVegan": false,
+        "pricePerKg": 22
+    },
+    {
+        "expiryDate": "2024-09-05",
+        "originCountry": "France",
+        "producer": "Roquefort",
+        "ageInMonths": 5,
+        "type": "Blue Cheese",
+        "isVegan": false,
+        "pricePerKg": 28
+    },
+    {
+        "expiryDate": "2024-07-10",
+        "originCountry": "Canada",
+        "producer": "Daiya",
+        "ageInMonths": 1,
+        "type": "Vegan Cheddar",
+        "isVegan": true,
+        "pricePerKg": 25
+    },
+    {
+        "expiryDate": "2024-07-15",
+        "originCountry": "Greece",
+        "producer": "Violife",
+        "ageInMonths": 1,
+        "type": "Vegan Mozzarella",
+        "isVegan": true,
+        "pricePerKg": 24
+    },
+    {
+        "expiryDate": "2024-09-25",
+        "originCountry": "Greece",
+        "producer": "Dodoni",
+        "ageInMonths": 3,
+        "type": "Feta",
+        "isVegan": false,
+        "pricePerKg": 20
+    },
+    {
+        "expiryDate": "2024-08-12",
+        "originCountry": "France",
+        "producer": "Montrachet",
+        "ageInMonths": 2,
+        "type": "Goat Cheese",
+        "isVegan": false,
+        "pricePerKg": 27
+    },
+    {
+        "expiryDate": "2024-08-20",
+        "originCountry": "USA",
+        "producer": "Vromage",
+        "ageInMonths": 2,
+        "type": "Vegan Blue Cheese",
+        "isVegan": true,
+        "pricePerKg": 32
+    },
+    {
+        "expiryDate": "2024-07-05",
+        "originCountry": "Cyprus",
+        "producer": "Aphrodite",
+        "ageInMonths": 1,
+        "type": "Halloumi",
+        "isVegan": false,
+        "pricePerKg": 22
+    },
+    {
+        "expiryDate": "2025-12-11",
+        "originCountry": "Eesti",
+        "producer": "Eestjuust",
+        "ageInMonths": 12,
+        "type": "UUS JUUST",
+        "isVegan": true,
+        "pricePerKg": 12
+    }
+]}
